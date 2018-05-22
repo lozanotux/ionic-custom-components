@@ -1,3 +1,6 @@
+/**
+ * @author: Juan Pablo Lozano <lozanotux@gmail.com>
+ */
 import { Component, OnInit } from '@angular/core';
 
 @Component({
